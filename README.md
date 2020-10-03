@@ -12,7 +12,9 @@ Build status of continus integration . - Still trying to get the hang of the .md
  
 ## Screenshots
 
-![code refactor demo](./Assets/01-html-css-git-homework-demo)
+Shouldn't this image be seeen as the path is correct?
+
+![code refactor demo](./screenshot/01-html-css-git-homework-demo)
 
 ## Tech/framework used
 
