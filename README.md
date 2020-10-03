@@ -11,7 +11,7 @@ Build status of continus integration . - Still trying to get the hang of the .md
  
 ## Screenshots
 
-![code refactor demo] (./Assets/01-html-css-git-homework-demo.png)
+![code refactor demo](./Assets/01-html-css-git-homework-demo)
 
 ## Tech/framework used
 
