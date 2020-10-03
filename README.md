@@ -1,6 +1,7 @@
 ## Homework_1
 First Homework for Fullstack Bootcamp which contains semantic tags after initial review of the html code which did not.
 You can find within the build index-copy.html to compare semantics between files.
+I apologize for the not unique repository name, went ahead and take the 'descriptive' name of the proyect.
 
 ## Motivation
 My grade for my first homework, also I took this readme.md from another site.
